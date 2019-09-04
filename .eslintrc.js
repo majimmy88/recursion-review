@@ -6,11 +6,11 @@
 
 module.exports = {
   env: {
-    'es6': true
+    'es6': false
   },
   parserOptions: {
     ecmaFeatures: {
-      'jsx': true
+      'jsx': false
     }
   },
   rules: {
