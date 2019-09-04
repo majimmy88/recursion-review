@@ -4,7 +4,7 @@
 // but you don't so you're going to write it from scratch:
 
 var stringifyJSON = function(obj) {
-  console.log('obj at stringify.json,', obj);
+  //console.log('obj at stringify.json,', obj);
   // your code goes here
   var result
   if(typeof obj === 'number'){
